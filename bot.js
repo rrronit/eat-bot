@@ -45,7 +45,7 @@ const login=async () => {
     await page.waitForSelector(".dFTiPm")
     await page.click(".fvVWzT .dFTiPm")
 
-    for (let i=68500;i<99999;i++){
+    for (let i=70000;i<99999;i++){
 try{
 
 
